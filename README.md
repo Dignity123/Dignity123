@@ -7,7 +7,7 @@ Here is my [resume](https://drive.google.com/file/d/1vNzpPqUxumrPflI6Rk9zIqCCKHy
 ## Projects
 
 ## 🔧 Tech Stack
-- 💻 Languages: JavaScript, Python, C++, RISC-V Assembly
+- 💻 Languages: JavaScript, Python, C++, RISC-V Assembly, Dart, Java
 - 🌐 Web Dev: HTML, CSS, React, Node.js, Django
 - 🧰 Tools: Git, GitHub, VS Code, Linux, Tkinter, PyQt, Flask
 - ☁️ Cloud: AWS (Beginner)
