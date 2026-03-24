@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science student with a passion for technology, problem-solving, and continuous learning.  
 💻 I enjoy building full-stack applications, working with data, solving problems, and exploring new technologies.
-Here is my [resume](https://drive.google.com/file/d/1vNzpPqUxumrPflI6Rk9zIqCCKHy2UtRq/view?usp=drive_link)
+Here is my [resume](https://drive.google.com/file/d/1X5N5fJDGcM7xxLOtCPn0GHtPRGJSWNtS/view?usp=drive_link)
 
 ## Projects
 
