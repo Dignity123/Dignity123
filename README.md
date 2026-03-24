@@ -27,6 +27,7 @@ Here is my [resume](https://drive.google.com/file/d/1X5N5fJDGcM7xxLOtCPn0GHtPRGJ
 - Advanced Algorithms and Data Structures
 - Building impactful portfolio projects
 - Machine Learning
+- Mobile App Development
 
 ## 📫 How to Reach Me
 - Always excited to meet new people😁🤝
